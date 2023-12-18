@@ -2,7 +2,7 @@
 
 #### Analista de Dados e Business Intelligence
 ---
-##### Técnologias utilizadas:
+##### Principais Técnologias:
 <div display='inline'>
   <img height ='40' width ='40' src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
   <img height ='40' width ='40' src="https://www.svgrepo.com/show/354012/looker-icon.svg" />
