@@ -17,7 +17,10 @@
 
 ---
 
-#### Portfólio de Projetos
+### Portfólio de Projetos
+
+<a href='https://www.linkedin.com/in/eduardo-de-moura-da-silva-4a5516251/'>Dashboard Techchannel</a>
+
 
 
           
