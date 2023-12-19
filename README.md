@@ -19,7 +19,7 @@
 
 ### Portfólio de Projetos
 
-<a href='https://www.linkedin.com/in/eduardo-de-moura-da-silva-4a5516251/'>Dashboard Techchannel</a>
+<a href='https://github.com/EduardoSymph/Techchannel-Dashboard'>Dashboard Techchannel</a>
 
 
 
